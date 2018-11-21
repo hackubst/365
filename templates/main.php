@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
-<link rel="dns-prefetch" href="//cc.365cent.com">
+<!--<link rel="dns-prefetch" href="//cc.365cent.com">-->
 <link rel="shortcut icon" type="image/x-icon" href="http://www.365cent.com/favicon.ico">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/material-design-lite@1.3.0/dist/material.indigo-pink.min.css">
@@ -99,7 +99,7 @@ text-align:center;
       <span class="mdl-chip__text" onClick="window.open('https://www.php-proxy.com/','_blank')">Powered by PHP-Proxy 5.1.0</span>
   </button>
   <button type="button" class="mdl-chip">
-      <span  class="mdl-chip__text" ><a href="http://cc.365cent.com">CC Forum</a></span>
+      <span  class="mdl-chip__text" ><a href="http://p.qnid.cc">Theme: AlloX by 365cent</a></span>
   </button>
   <button id="tt" type="button" class="mdl-chip">
       <span class="mdl-chip__text" onClick="window.open('https://www.paypal.me/allox','_blank')">Why TimeOut?</span>
@@ -110,24 +110,6 @@ AlloX Engine is a free programe, we need your sponsor.
 </div>
 <script type="text/javascript">
 	document.getElementsByName("url")[0].focus();
-</script>
-<div style="display:none"><script src="http://s22.cnzz.com/z_stat.php?id=1273669953&web_id=1273669953"></script></div>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125858308-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-125858308-1');
-</script>
-<!-- ADs by Google -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-9548862109530353",
-    enable_page_level_ads: true
-  });
 </script>
 </body>
 </html>
